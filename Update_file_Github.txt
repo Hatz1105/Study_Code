@@ -1,0 +1,4 @@
+git status
+git add .
+git commit -m "+ File"
+gir push origin main
