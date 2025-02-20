@@ -1,4 +1,6 @@
 git status
 git add .
 git commit -m "+ File"
-gir push origin main
+git push origin main
+
+git pull origin main
